@@ -1,6 +1,9 @@
 function App() {
   return (
-    <h2>Styled Components</h2> 
+    <div style={{padding: '2rem', backgroundColor: 'darkred'}}>
+      <h1 className='title'>Styled Components</h1>
+      <button className='btn'>Click</button>
+    </div>
   );
 }
 
