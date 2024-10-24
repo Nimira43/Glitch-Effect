@@ -1,8 +1,9 @@
 using System;
+using Microsoft.EntityFrameworkCore;
 
 namespace Infrastructure.Data;
 
-public class StoreContext
+public class StoreContext : DbContext
 {
-
+   
 }
