@@ -3,7 +3,8 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Infrastructure.Data;
 
-public class StoreContext : DbContext
+public class StoreContext(DbContextOptions options) : DbContext(options)
 {
-   
+  
 }
+
