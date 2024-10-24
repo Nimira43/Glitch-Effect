@@ -5,10 +5,6 @@ C:\Users\arimi\Project-8\JavaScript\Neil-Cummings\Ski-Store-Angular-Dotnet\API\b
 C:\Users\arimi\Project-8\JavaScript\Neil-Cummings\Ski-Store-Angular-Dotnet\API\bin\Debug\net8.0\API.runtimeconfig.json
 C:\Users\arimi\Project-8\JavaScript\Neil-Cummings\Ski-Store-Angular-Dotnet\API\bin\Debug\net8.0\API.dll
 C:\Users\arimi\Project-8\JavaScript\Neil-Cummings\Ski-Store-Angular-Dotnet\API\bin\Debug\net8.0\API.pdb
-C:\Users\arimi\Project-8\JavaScript\Neil-Cummings\Ski-Store-Angular-Dotnet\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Users\arimi\Project-8\JavaScript\Neil-Cummings\Ski-Store-Angular-Dotnet\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\arimi\Project-8\JavaScript\Neil-Cummings\Ski-Store-Angular-Dotnet\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\arimi\Project-8\JavaScript\Neil-Cummings\Ski-Store-Angular-Dotnet\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\arimi\Project-8\JavaScript\Neil-Cummings\Ski-Store-Angular-Dotnet\API\bin\Debug\net8.0\Core.dll
 C:\Users\arimi\Project-8\JavaScript\Neil-Cummings\Ski-Store-Angular-Dotnet\API\bin\Debug\net8.0\Infrastructure.dll
 C:\Users\arimi\Project-8\JavaScript\Neil-Cummings\Ski-Store-Angular-Dotnet\API\bin\Debug\net8.0\Infrastructure.pdb
@@ -18,7 +14,6 @@ C:\Users\arimi\Project-8\JavaScript\Neil-Cummings\Ski-Store-Angular-Dotnet\API\o
 C:\Users\arimi\Project-8\JavaScript\Neil-Cummings\Ski-Store-Angular-Dotnet\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
 C:\Users\arimi\Project-8\JavaScript\Neil-Cummings\Ski-Store-Angular-Dotnet\API\obj\Debug\net8.0\API.AssemblyInfo.cs
 C:\Users\arimi\Project-8\JavaScript\Neil-Cummings\Ski-Store-Angular-Dotnet\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
-C:\Users\arimi\Project-8\JavaScript\Neil-Cummings\Ski-Store-Angular-Dotnet\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\arimi\Project-8\JavaScript\Neil-Cummings\Ski-Store-Angular-Dotnet\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\arimi\Project-8\JavaScript\Neil-Cummings\Ski-Store-Angular-Dotnet\API\obj\Debug\net8.0\API.sourcelink.json
 C:\Users\arimi\Project-8\JavaScript\Neil-Cummings\Ski-Store-Angular-Dotnet\API\obj\Debug\net8.0\staticwebassets.build.json
