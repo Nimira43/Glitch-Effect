@@ -105,4 +105,3 @@ nuget.config
 # Hidden Folders
 .*;
 
-docker-compose.yml
